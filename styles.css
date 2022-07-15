@@ -1,0 +1,36 @@
+.header {
+    color: yellow;
+    background-color: #477bff;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+#name {
+    font-family: monospace;
+    font-size: 48px;
+    text-emphasis: underline;
+    color: green;
+    opacity: 0.5;
+}
+
+.about {
+    font-family: 'Montserrat', sans-serif;
+    color: olive;
+}
+
+
+h1 {
+    color: olive;
+}
+
+li:hover {
+    color: green;
+    opacity: 0.5;
+    background-color: #f5f5f5;
+}
+
+footer {
+    font-size: small;
+    text-align: center;
+}
